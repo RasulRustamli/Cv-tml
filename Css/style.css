@@ -1,0 +1,32 @@
+.main-left {
+    flex: 1;
+    margin-left: 10px;
+    position: relative;
+    border-left: 2px dashed  #080808;
+}
+    .category{
+        color: rgb(14, 153, 245);
+     margin-left: 10px;
+ }
+ .title-name{
+     margin-left: 10px;
+ }
+ .title-name-sub{
+     margin-left: 10px;
+ }
+ .sub{
+     margin-left: 10px;
+ }
+ .main-right{
+     flex: 2;
+    border-left: 2px dashed  #080808;
+    float: left;
+ }
+ main{
+     display: flex;
+ }
+ .header{
+     position: relative;
+     left: 30px;
+ }
+ 
